@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import "./globals.css";
-import { contact, images, site } from "@/lib/config";
+import { contact, images, site } from "../lib/config";
 
 export const metadata: Metadata = {
   metadataBase: new URL(site.url),
