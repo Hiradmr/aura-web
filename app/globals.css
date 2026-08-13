@@ -59,20 +59,3 @@ body {
     padding: 4.5rem 0;
   }
 }
-/* İkon Kutuları ve Mor Renk Zorlaması */
-[class*="bg-purple-100"], [class*="bg-primary/10"] {
-  background-color: rgba(124, 58, 237, 0.15) !important;
-}
-
-[class*="text-purple-600"], [class*="text-primary"] {
-  color: #7c3aed !important;
-}
-
-[class*="bg-purple-600"], [class*="bg-primary"] {
-  background-color: #7c3aed !important;
-}
-
-/* Logo Arka Planı */
-header div[class*="bg-"] {
-  background-color: rgba(124, 58, 237, 0.2) !important;
-}
